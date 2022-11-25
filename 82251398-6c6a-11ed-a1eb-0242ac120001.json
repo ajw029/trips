@@ -1,0 +1,30 @@
+{
+    "id": "82251398-6c6a-11ed-a1eb-0242ac120001",
+    "title": "La Jolla",
+    "places": [
+        {
+            "id": "8225211c-6c6a-11ed-a1eb-0242ac120002",
+            "title": "La Jolla Cove",
+            "coordinates": "32.85049095687122, -117.27301834112642",
+            "coverPhoto": ""
+        },
+        {
+            "id": "822522fc-6c6a-11ed-a1eb-0242ac120002",
+            "title": "University of California San Diego",
+            "coordinates": "32.88004238251801, -117.23378805022007",
+            "coverPhoto": ""
+        },
+        {
+            "id": "82252572-6c6a-11ed-a1eb-0242ac120002",
+            "title": "Ellen Browning Scripps Memorial Pier",
+            "coordinates": "32.86642846587703, -117.25451888508707",
+            "coverPhoto": ""
+        },
+        {
+            "id": "822526bc-6c6a-11ed-a1eb-0242ac120002",
+            "title": "Torrey Pines Natural Reserve",
+            "coordinates": "32.92745362969069, -117.25921806343082",
+            "coverPhoto": ""
+        }
+    ]
+}

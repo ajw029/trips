@@ -1,0 +1,36 @@
+{
+    "id": "82251398-6c6a-11ed-a1eb-0242ac120000",
+    "title": "San Diego",
+    "places": [
+        {
+            "id": "82251398-6c6a-11ed-a1eb-0242ac120002",
+            "title": "Greetings from San Diego Mural",
+            "coordinates": "32.754720073714736, -117.13001886615544",
+            "coverPhoto": ""
+        },
+        {
+            "id": "822516b8-6c6a-11ed-a1eb-0242ac120002",
+            "title": "San Diego Zoo",
+            "": "32.73541261232644, -117.14906638511594",
+            "coverPhoto": ""
+        },
+        {
+            "id": "82251834-6c6a-11ed-a1eb-0242ac120002",
+            "title": "Balboa Park",
+            "coordinates": "32.73404562447839, -117.14477211345523",
+            "coverPhoto": ""
+        },
+        {
+            "id": "82251d84-6c6a-11ed-a1eb-0242ac120002",
+            "title": "Old Cactus Garden",
+            "coordinates": "32.72898506400582, -117.15421183042412",
+            "coverPhoto": ""
+        },
+        {
+            "id": "82251fa0-6c6a-11ed-a1eb-0242ac120002",
+            "title": "Sunset Cliffs Natural Park",
+            "coordinates": "32.722417947420716, -117.25484507344694",
+            "coverPhoto": ""
+        }
+    ]
+}
