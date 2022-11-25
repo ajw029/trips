@@ -1,0 +1,59 @@
+{
+    "places": [
+        {
+            "title": "San Diego",
+            "places": [
+                {
+                    "id": "82251398-6c6a-11ed-a1eb-0242ac120002",
+                    "title": "Greetings from San Diego Mural",
+                    "coordinates": "32.754720073714736, -117.13001886615544"
+                },
+                {
+                    "id": "822516b8-6c6a-11ed-a1eb-0242ac120002",
+                    "title": "San Diego Zoo",
+                    "": "32.73541261232644, -117.14906638511594"
+                },
+                {
+                    "id": "82251834-6c6a-11ed-a1eb-0242ac120002",
+                    "title": "Balboa Park",
+                    "coordinates": "32.73404562447839, -117.14477211345523"
+                },
+                {
+                    "id": "82251d84-6c6a-11ed-a1eb-0242ac120002",
+                    "title": "Old Cactus Garden",
+                    "coordinates": "32.72898506400582, -117.15421183042412"
+                },
+                {
+                    "id": "82251fa0-6c6a-11ed-a1eb-0242ac120002",
+                    "title": "Sunset Cliffs Natural Park",
+                    "coordinates": "32.722417947420716, -117.25484507344694"
+                }
+            ]
+        },
+        {
+            "title": "La Jolla",
+            "places": [
+                {
+                    "id": "8225211c-6c6a-11ed-a1eb-0242ac120002",
+                    "title": "La Jolla Cove",
+                    "coordinates": "32.85049095687122, -117.27301834112642"
+                },
+                {
+                    "id": "822522fc-6c6a-11ed-a1eb-0242ac120002",
+                    "title": "University of California San Diego",
+                    "coordinates": "32.88004238251801, -117.23378805022007"
+                },
+                {
+                    "id": "82252572-6c6a-11ed-a1eb-0242ac120002",
+                    "title": "Ellen Browning Scripps Memorial Pier",
+                    "coordinates": "32.86642846587703, -117.25451888508707"
+                },
+                {
+                    "id": "822526bc-6c6a-11ed-a1eb-0242ac120002",
+                    "title": "Torrey Pines Natural Reserve",
+                    "coordinates": "32.92745362969069, -117.25921806343082"
+                }
+            ]
+        }
+    ]
+}
